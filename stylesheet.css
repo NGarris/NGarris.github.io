@@ -1,7 +1,16 @@
 :root {
 
+  /*Background colors*/
 --main-bg-color: #f5f5f5;
 --heading-bg-color: #9497f5;
-  
+ --nav-bg-color: #464444;
+ --project-item-bg-color: #e8e8e8;
+
+  --text-color: #000000;
+  --emphasis-color: #5b5ebe;
+  --nav-link-color: #aab0ee;
+  --link-color: #5b5ebe;
+  font-family: 'Open Sans', sans-serif;
+
 
   }
